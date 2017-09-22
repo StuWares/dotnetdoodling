@@ -1,0 +1,10 @@
+C:\Users\Stu.LENOVO-PC\Desktop\dotNetThings\dotnetdoodling\CsharpHelloWorld\bin\Debug\netcoreapp2.0\CsharpHelloWorld.deps.json
+C:\Users\Stu.LENOVO-PC\Desktop\dotNetThings\dotnetdoodling\CsharpHelloWorld\bin\Debug\netcoreapp2.0\CsharpHelloWorld.runtimeconfig.json
+C:\Users\Stu.LENOVO-PC\Desktop\dotNetThings\dotnetdoodling\CsharpHelloWorld\bin\Debug\netcoreapp2.0\CsharpHelloWorld.runtimeconfig.dev.json
+C:\Users\Stu.LENOVO-PC\Desktop\dotNetThings\dotnetdoodling\CsharpHelloWorld\bin\Debug\netcoreapp2.0\CsharpHelloWorld.dll
+C:\Users\Stu.LENOVO-PC\Desktop\dotNetThings\dotnetdoodling\CsharpHelloWorld\bin\Debug\netcoreapp2.0\CsharpHelloWorld.pdb
+C:\Users\Stu.LENOVO-PC\Desktop\dotNetThings\dotnetdoodling\CsharpHelloWorld\obj\Debug\netcoreapp2.0\CsharpHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Stu.LENOVO-PC\Desktop\dotNetThings\dotnetdoodling\CsharpHelloWorld\obj\Debug\netcoreapp2.0\CsharpHelloWorld.AssemblyInfoInputs.cache
+C:\Users\Stu.LENOVO-PC\Desktop\dotNetThings\dotnetdoodling\CsharpHelloWorld\obj\Debug\netcoreapp2.0\CsharpHelloWorld.AssemblyInfo.cs
+C:\Users\Stu.LENOVO-PC\Desktop\dotNetThings\dotnetdoodling\CsharpHelloWorld\obj\Debug\netcoreapp2.0\CsharpHelloWorld.dll
+C:\Users\Stu.LENOVO-PC\Desktop\dotNetThings\dotnetdoodling\CsharpHelloWorld\obj\Debug\netcoreapp2.0\CsharpHelloWorld.pdb
